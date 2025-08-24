@@ -1,4 +1,4 @@
-local Tabela = {
+return {
 	PlayerPermission = {
 		["Kayky97315"] = 			{Tier = 2000},
 		["robobitinho"] = 			{Tier = 2000},
@@ -20,7 +20,4 @@ local Tabela = {
 		["JP6"] = 					{Tier = 1,Permission = {}},
 		["Gojo"] = 					{Tier = 1,Permission = {}}, -- perm temp
 	}
-
 }
-
-return Tabela
